@@ -6,11 +6,13 @@
 
 No libc. No runtime. No dynamic allocation. Just pure `int 0x80` syscalls.
 
+[Download the binary.](https://github.com/someodd/gasm/releases).
+
 ## ⚡ The Stats
 
 | Metric | GASM | Typical Web Server |
 | :--- | :--- | :--- |
-| **Binary Size** | **1.2 KB** | 50MB+ |
+| **Binary Size** | **1.5 KB** | 50MB+ |
 | **RAM Usage** | **24 KB** | 100MB+ |
 | **Dependencies** | **0** | ∞ |
 | **Min CPU** | **Intel 386 (1985)** | Core i7 |
